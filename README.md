@@ -49,4 +49,15 @@ Put 'sys_use_signal.c' to the kernel source code directory and make a new kernel
 Use 'make' command to compile the user space program 'use_signal.c' and 'use_signal2.c'.<br />
 Use 'make run' will compile 'use_signal.c' and 'use_signal2.c', and then run them.<br />
 <br />
+
+## [change_cmdline.c](https://github.com/headhsu2568/OS_hw4/blob/master/change_cmdline.c)
+The user space program prototype for Task 1 in homework 4 .<br />
+You can download this and then implement the left part(see the comments).<br />
+<br />
+
+## [sys_change_cmdline.c](https://github.com/headhsu2568/OS_hw4/blob/master/sys_change_cmdline.c)
+The system call program prototype for Task 1 in homework 4 .<br />
+You can download this and then implement the left part(see the comments).<br />
+<br />
+<br />
 <br />
