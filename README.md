@@ -3,7 +3,13 @@ OS_hw4
 
 __NCTU Introduction of Operating System course (2012 Fall) homework 4 (instructor:Hank Wu)__
 <br /><br /><br />
-There are some examples for the homework 4 in this repository, they are...
+
+* You can download the homework 4 tutorial and specification document below
+<br />
+[Homework 4 Interaction between Process and Kernel.pdf](https://github.com/headhsu2568/OS_hw4/blob/master/Homework%204%20Interaction%20between%20Process%20and%20Kernel.pdf?raw=true)
+<br />
+<br />
+* You can see all the examples for the homework 4 in this repository, they are...
 
 ## [sayhello](https://github.com/headhsu2568/OS_hw4/tree/master/sayhello)
 The first example to show how to write a system call and how to call it.<br />
