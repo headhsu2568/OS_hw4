@@ -14,18 +14,21 @@ asmlinkage long sys_change_cmdline(char* ptr) {
      * get the command line string via variable 'current' below
      *
      ***/
+    // You should implement something here...
 
 
     /*** 
      * copy the original command line string to user space variable(the address is 'ptr') below
      *
      ***/
+    // You should implement something here...
 
 
     /*** 
      * modify the command line string below
      *
      ***/
+    // You should implement something here...
 
     return 0;
 }
