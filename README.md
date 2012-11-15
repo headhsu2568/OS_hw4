@@ -37,7 +37,7 @@ Use 'make run' will compile 'get_state.c' and then run it.<br />
 <br />
 
 ## [get_cr3](https://github.com/headhsu2568/OS_hw4/tree/master/get_cr3)
-The other example to show how to access 'current' variable in the system call.<br />
+The other example to show how to access the 'current' and 'mm' variable in the system call.<br />
 The system call will get the value of [CR3](http://en.wikipedia.org/wiki/Control_register#CR3).<br />
 <br />
 Put 'sys_get_cr3.c' to the kernel source code directory and make a new kernel.<br />
