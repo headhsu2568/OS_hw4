@@ -19,12 +19,14 @@ int main() {
      * call your system call below
      *
      ***/
+    // you should implement something here...
 
 
     /***
-     * print the original command line string below
+     * print the original command line string
      *
      ***/
+    printf("The orginal string: %s\n", origin_cmdline); // the value must be same as the first snapshot
 
     // Use 'ps aux' show the new command line string
     printf("Use 'ps aux |grep [the pid]' and capture the snapshot again.\n");
